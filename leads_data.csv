@@ -1,0 +1,13 @@
+name,phone,email,lead_status,call_status,notes,date_added,last_followup,followup_notes,lead_temperature,created_by,created_at,details_shared,next_followup,followup_status
+Hari,9487929282,haribharathis@gmail.com,Student,Call taken,He is a student ,2025-02-10 03:45:13,2025-02-10 03:50:01,,,,,False,,
+Mohammed Salah,7025199201,mosalathayyil@gmail.com,Working,Call taken,Cold Lead,2025-02-10 03:51:38,2025-02-10 03:52:05,"nan
+[2025-02-10 03:52:05] Doing 100 K",,,,False,,
+Mansoor ,9003168889,mdmansoor@gmail.com,Working,Call taken,work,2025-02-10 03:55:03,2025-02-10 03:55:36,"nan
+[2025-02-10 03:55:36] hi",,,,False,,
+Hari Bbau ,9842275732,haribharathis@gmail.com,Student,Call taken,efdgvdgfgfgfb,2025-02-10 04:05:06,,,,,,False,,
+grgrgrgrg,9842275732,haribharathis@gmail.com,Student,Call taken,sdvsfgsfsbsfb,2025-02-10 04:06:46,,,,,,False,,
+Gopal,9080016278,haribharathis@gmail.com,Student,Call taken,Hello,2025-02-10 04:09:44,2025-02-10 04:10:03,"nan
+[2025-02-10 04:10:03] Hellooooo",,,,False,,
+Hari,909080708,me@iamhari.in,Student,Call taken,grgrgrgr,2025-02-10 04:21:18,2025-02-10 04:21:31,"nan
+[2025-02-10 04:21:31] dgfbfg",,,,False,,
+Hari,909080708,me@iamhari.in,Student,Call taken,wfrefeg,2025-02-10 05:24:18,2025-02-10 08:13:35,,Hot,Hari,2025-02-10 05:24:18,False,2025-02-10,Pending
